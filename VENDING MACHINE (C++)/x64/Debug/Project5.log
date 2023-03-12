@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\abdul\source\repos\Project5\MyForm.h(151,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\abdul\source\repos\Project5\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> C:\Users\abdul\source\repos\Project5\x64\Debug\Project5.exe
